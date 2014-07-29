@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/9630">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9630/9630-8.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840984</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6bc82671043e439aae9646c04c407517">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-07T14:32:04</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9630.plucker">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-08T14:26:17.854800</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf12a99967a814187a74c497ab0a29e74">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436836</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9630/9630-8.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndf3977e52d1042a5aaa7ee3340187df9">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272571</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2eb9c97574d7418c801eeb23b2461f9c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-07T14:50:42</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9630.kindle.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792632</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-08T14:26:21.871554</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N85858c32618245299e01c3952f035614">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9630.html.gen">
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">911185</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-08T14:26:10.446098</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N350dd05973a647ca87d2bf2e2642af92">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>Proportional Representation: A Study in Methods of Election</dcterms:title>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9630/9630.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272319</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-07T14:50:42</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N022a1364d880424ebd5cbd2135ccad12">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N52b9eff629be46e09dd5678627484e39">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N3781afd6e568465f941da644dc273ae8">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nb7ee4bf8ebbe44b4a8efb3487bea4165">
+        <rdf:value>JF</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9630/9630.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-07T14:31:58</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">841002</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf3095bdeb358467684051e5cc7c1ef1e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/3108">
+        <pgterms:name>Humphreys, John H.</pgterms:name>
+        <pgterms:alias>Humphreys, J. H. (John H.)</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N6536d6aa1ac34d31bbc19254eca2fb09">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9630.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323912</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nea3deeff1a224c1fa28cb07e1b867709">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-08T14:26:12.088160</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N621547e0a74d4b4eaf3f4f2eb1edd0b6">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Proportional representation</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9630.qioo">
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-08T14:26:09.150846</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334492</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nff08a4547cf94d4d91b8e6ba34c0fb2f">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:tableOfContents>The House of commons as an expression of the national will -- The direct results of majority systems -- The indirect results of majority systems -- The representation of minorities -- The second ballot and the transferable vote in single-member constituencies -- Proportional representation -- The single transferable vote -- List systems of proportional representation -- A comparison of list systems with the single transferable vote -- Proportional representation and party government -- Objections to proportional representation -- The key to electoral and constitutional reform -- Appendices.</dcterms:tableOfContents>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4fa999645a0144a38169e7df3348a101">
+        <rdf:value>Elections</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9630.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/9630"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-08T14:26:07.756462</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5501da0cc80b4fb1b30f21e3e8b41a30">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">841141</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01</dcterms:issued>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+  </cc:Work>
+</rdf:RDF>
