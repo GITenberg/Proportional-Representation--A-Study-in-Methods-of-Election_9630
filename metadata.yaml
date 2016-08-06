@@ -1,0 +1,32 @@
+_repo: Proportional-Representation--A-Study-in-Methods-of-Election_9630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Humphreys, John H.
+    alias: Humphreys, J. H. (John H.)
+    gutenberg_agent_id: '3108'
+    url: http://www.gutenberg.org/2009/agents/3108
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Proportional representation'
+- !lcsh 'Elections'
+- !lcc 'JF'
+- GITenberg
+tableOfContents: The House of commons as an expression of the national will -- The
+  direct results of majority systems -- The indirect results of majority systems --
+  The representation of minorities -- The second ballot and the transferable vote
+  in single-member constituencies -- Proportional representation -- The single transferable
+  vote -- List systems of proportional representation -- A comparison of list systems
+  with the single transferable vote -- Proportional representation and party government
+  -- Objections to proportional representation -- The key to electoral and constitutional
+  reform -- Appendices.
+title: 'Proportional Representation: A Study in Methods of Election'
+url: http://www.gutenberg.org/ebooks/9630
