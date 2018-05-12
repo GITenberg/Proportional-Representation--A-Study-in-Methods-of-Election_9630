@@ -1,5 +1,8 @@
 _repo: Proportional-Representation--A-Study-in-Methods-of-Election_9630
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Humphreys, John H.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3108'
     url: http://www.gutenberg.org/2009/agents/3108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9630#Proportional-Representation--A-Study-in-Methods-of-Election
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
