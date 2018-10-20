@@ -1592,7 +1592,7 @@ Progressive and Labour     395,749    38         50
 Independent                  6,189     1          1
 
 Moderate majority over
- Progressive and Labour     70,478    49         12
+ Progressive and Labour     130,951   41         17
 
 _The London County Council elections_.
 
@@ -1806,7 +1806,7 @@ Liberal               19,507      3          5
 Socialist-Labour       9,615      1          2
 Independent            3,046      1          1
 
-_Summary.]
+_Summary._
 
 The examples given in this chapter may be briefly summarised. The same
 defects are disclosed in Parliamentary, County Council and Municipal
@@ -5257,7 +5257,7 @@ election may be more easily understood from a simple case. Let us
 imagine there are six candidates for three seats, of whom A, B, C belong
 to one party and X, Y, Z to another. On the conclusion of the poll the
 ballot papers would be sorted into heaps, or files, corresponding to the
-names against which the figure I had been marked, and in this way the
+names against which the figure 1 had been marked, and in this way the
 number of votes recorded for each candidate would be ascertained. Let
 us assume that the result of the sorting is as follows:--
 
@@ -5601,7 +5601,7 @@ best_.
 
 He is also invited to place
 
-(b) The figure 2 opposite the name of his _second choice,
+(b) The figure 2 opposite the name of his _second choice_.
 
 (c) The figure 3 opposite the name of his _third choice_, and so on,
 numbering as many candidates as he pleases in the order of his
@@ -8382,8 +8382,8 @@ following table:--
      P     A
 N .... 32    28    60
 L .... 24    16    40
-     _    _   __
-     50    44   100
+      _     _   __
+     56    44   100
 
 "Then it is clear that there is a majority of 60 per cent, to 40 per
 cent, against the Labour platform, and a majority of 56 per cent, to 44
@@ -9866,7 +9866,7 @@ ecclesiastical and judicial affairs, county council government, county
 territorial organization, and even county cricket and football; to have,
 therefore, county electoral areas would be at once popular and
 intelligible to all; besides, it would be a reversion to an old
-tradition ";[8] and if the large towns were made parliamentary
+tradition";[8] and if the large towns were made parliamentary
 constituencies this also would be a reversion to the conditions which
 existed before 1885. It would be infinitely easier to add
 representatives to or take them away from such electoral areas than it
@@ -10268,7 +10268,7 @@ _Conclusion._
 
 Whether it is a question of improving existing institutions, or the
 creation of further representative bodies, the method of election is all
-important. All other departments or human activity show continuous
+important. All other departments of human activity show continuous
 improvement, and the substitution of scientific for rule-of-thumb
 methods of election is an improvement long overdue. It may even be said
 that the continued successful working of representative institutions
